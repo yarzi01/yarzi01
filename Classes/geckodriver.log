@@ -1,0 +1,129 @@
+1541950281163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.5iDhG0mZ3biF"
+1541950294634	Marionette	INFO	Listening on port 64608
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541950324115	Marionette	INFO	Stopped listening on port 64608
+1541950399317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.RQgjqwzPai13"
+1541950402864	Marionette	INFO	Listening on port 64684
+1541950402953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 996: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1863: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1541950440277	Marionette	INFO	Stopped listening on port 64684
+1541950786353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.oa3oTlUTjQWi"
+1541950789931	Marionette	INFO	Listening on port 64957
+1541950790025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 996: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1863: unreachable code after return statement
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 996: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1863: unreachable code after return statement
+1541950872122	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.X8tESETzPFQo"
+1541950876739	Marionette	INFO	Listening on port 65277
+1541950876762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 996: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1863: unreachable code after return statement
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 996: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1863: unreachable code after return statement
+1541950948406	Marionette	INFO	Stopped listening on port 64957
+1541950950522	Marionette	INFO	Stopped listening on port 65277
+1541951064256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.kdcXLCtidd3t"
+1541951067596	Marionette	INFO	Listening on port 49219
+1541951067714	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1541951164847	Marionette	INFO	Stopped listening on port 49219
+1541951172775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.qcSyEgcAbx0l"
+1541951175822	Marionette	INFO	Listening on port 49353
+1541951175906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541951215352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.dr9XgpuCN9LP"
+1541951218193	Marionette	INFO	Listening on port 49469
+1541951218291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541951238839	Marionette	INFO	Stopped listening on port 49469
+1541951242021	Marionette	INFO	Stopped listening on port 49353
+1541951361191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.mzKWHGfnzvkC"
+1541951364108	Marionette	INFO	Listening on port 49756
+1541951364194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+JavaScript warning: https://media.erate.co.il/erate.pp.js?v=218p, line 1: unreachable code after return statement
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1082:3
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1541951379542	Marionette	INFO	Stopped listening on port 49756
+1541951399271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.fnsH5jjcb5MK"
+1541951401783	Marionette	INFO	Listening on port 49982
+1541951401849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541951426752	Marionette	INFO	Stopped listening on port 49982
+1541951641978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/2flvxsss3dq68m37nbqtx8rw0000gn/T/rust_mozprofile.UN2udboounIx"
+1541951645806	Marionette	INFO	Listening on port 49465
+1541951645912	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1541951906608	Marionette	INFO	Stopped listening on port 49465
