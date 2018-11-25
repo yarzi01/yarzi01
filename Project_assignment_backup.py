@@ -121,4 +121,3 @@ driver.find_element_by_xpath("//button[text()='תשלום']").click()
 driver.close()
 
 #driver.quit() - I left it in remark so I can record the screen
-#end of project file
